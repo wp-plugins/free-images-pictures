@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: adamsbk
-Donate link: 
+Donate link: http://freeimages.pictures/donate
 Tags: free images, pictures
 Requires at least: 3.0.1
 Tested up to: 4.2
